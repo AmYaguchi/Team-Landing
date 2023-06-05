@@ -5,4 +5,6 @@
 
 ## Output
 
-<h2>You can view the website from [here](https://google.com/)</h2>
+You can view the website from [here](https://google.com/)
+
+# Thanks For Reading
