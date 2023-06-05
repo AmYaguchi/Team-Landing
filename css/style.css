@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500;700&family=Poppins:wght@400;700&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    font-family: 'Poppins', sans-serif;
+}
+   
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+span{
+    font-family: 'Dancing Script', cursive;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+}
+.carousel-item img{
+   width: 100%;
+   height: 80vh;
+}
+.right img{
+    width: 30rem;
+    height: 33vh;
+}
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+}
